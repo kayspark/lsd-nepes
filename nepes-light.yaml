@@ -1,0 +1,46 @@
+# Nepes Light — lsd color theme
+# Place in ~/.config/lsd/colors.yaml
+
+user: 71
+group: 137
+
+permission:
+  read: 71
+  write: 137
+  exec: 161
+  exec-sticky: 103
+  no-access: 103
+
+date:
+  hour-old: 67
+  day-old: 59
+  older: 102
+
+size:
+  none: 103
+  small: 71
+  medium: 137
+  large: 161
+
+inode:
+  valid: 59
+  invalid: 103
+
+links:
+  normal: 59
+  multi: 178
+
+tree-edge: 188
+
+file-type:
+  directory: 61
+  file: 59
+  symlink: 67
+  fifo: 178
+  socket: 103
+  char-device: 137
+  block-device: 137
+  special: 178
+  executable: 161
+  uid-bit: 103
+  gid-bit: 137
