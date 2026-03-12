@@ -1,13 +1,13 @@
 # Nepes Dark — lsd color theme
 # Place in ~/.config/lsd/colors.yaml
 
-user: 71
+user: 79
 group: 222
 
 permission:
-  read: 71
+  read: 79
   write: 222
-  exec: 174
+  exec: 210
   exec-sticky: 140
   no-access: 102
 
@@ -18,9 +18,9 @@ date:
 
 size:
   none: 102
-  small: 71
+  small: 79
   medium: 222
-  large: 174
+  large: 210
 
 inode:
   valid: 181
@@ -33,7 +33,7 @@ links:
 tree-edge: 59
 
 file-type:
-  directory: 110
+  directory: 111
   file: 188
   symlink: 73
   fifo: 214
@@ -41,6 +41,6 @@ file-type:
   char-device: 222
   block-device: 222
   special: 214
-  executable: 174
+  executable: 210
   uid-bit: 140
   gid-bit: 222
